@@ -3,7 +3,7 @@ Lightweight performance tracker for Python code - zero overhead when disabled.
 
 # install
 ```bash
-pip install litperf
+pip install git+https://github.com/Lightning-AI/litperf.git
 ```
 
 # Example use
