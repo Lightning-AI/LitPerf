@@ -26,3 +26,15 @@ timer.mark("step2: sum_numbers")
 
 timer.print_report()
 ```
+
+The above generates the following report:    
+```text
+==============================
+Timing Report: 
+
+start → step1: count: 0.0031 seconds
+step1: count → step2: sum_numbers: 0.0036 seconds
+------------------------------
+Total time: 0.0067 seconds
+------------------------------
+```
